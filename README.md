@@ -90,8 +90,6 @@ We follow **secure-by-design** principles:
 
 ## 💻 Tech Stack
 
-> _Note: This is a representative stack. Adjust to match your actual technologies._
-
 ### 🌐 Frontend
 
 <p align="left">
