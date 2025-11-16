@@ -41,7 +41,7 @@ We work at the intersection of:
 
 📍 **Headquarters:** Saudi Arabia  
 🌐 **Website:** [www.digitalcar.sa](https://www.digitalcar.sa)  
-📫 **Contact:** [contact@digitalcar.sa](mailto:contact@digitalcar.sa)
+📫 **Contact:** [info@digitalcar.sa](mailto:info@digitalcar.sa)
 
 ---
 
